@@ -1,0 +1,22 @@
+{
+  "name": "bit-loader-excludes",
+  "version": "0.0.0",
+  "description": "bit-loader plugin for exluding modules from being processed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelCastillo/bit-loader-excludes.git"
+  },
+  "keywords": [
+    "bit-bundler"
+  ],
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelCastillo/bit-loader-excludes/issues"
+  },
+  "homepage": "https://github.com/MiguelCastillo/bit-loader-excludes#readme"
+}

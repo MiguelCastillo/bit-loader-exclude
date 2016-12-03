@@ -1,5 +1,5 @@
 # bit-loader-excludes
-bit-loader plugin to exclude modules with particular names from being processed.  Primariy use case is for excluding node modules form being processed.
+Plugin for specifying *module names* to be replaced with empty stub modules.  Primary use case is for replacing node modules with empty ones.
 
 ## compatible with
 

@@ -1,5 +1,5 @@
 {
-  "name": "bit-loader-excludes",
+  "name": "@bit/loader-excludes",
   "version": "1.0.2",
   "description": "bit-loader plugin for exluding modules from being processed",
   "main": "index.js",
